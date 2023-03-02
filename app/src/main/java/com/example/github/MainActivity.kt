@@ -8,6 +8,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         // When Edit Data
+        // bransh mohammed
         val x = 10
         val y = 20
         var z = x+y
